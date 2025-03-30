@@ -9,15 +9,17 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "TAZIM BOT",
+  "PREFIX": "!",
   "OPERATOR": [
     "100014896964436",
-    "100000959749712"
+    "100074841336862"
   ],
   "ADMINBOT": [
     "100000959749712",
-    ""
+    "100074841336862",
+    "61574449276556",
+    
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
